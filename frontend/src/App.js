@@ -62,5 +62,5 @@ function App() {
   );
 }
 
-export const SITE_URL = "https://remarkable-conkies-d4fd4b.netlify.app";
+export const SITE_URL = "https://mathmind.onrender.com";
 export default App;
