@@ -5,7 +5,6 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-export const SITE_URL = "https://main--remarkable-conkies-d4fd4b.netlify.app";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
