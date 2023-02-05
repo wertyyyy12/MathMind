@@ -1,4 +1,5 @@
 import axios from "axios";
+import { SITE_URL } from ".././App";
 import userServices from "./user";
 const url = SITE_URL + "/api/assignments";
 // const url = 'http://169.233.206.193:3001/api/assignments';
