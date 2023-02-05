@@ -62,5 +62,5 @@ function App() {
   );
 }
 
-export const SITE_URL = "https://math-mind-both.onrender.com/";
+export const SITE_URL = "https://math-mind-both.onrender.com";
 export default App;
